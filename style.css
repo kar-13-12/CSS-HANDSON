@@ -1,0 +1,36 @@
+h2
+{
+    color: blue;
+    font-style: italic;
+}
+.ol
+{
+    color: rgb(226, 13, 42);
+}
+.list
+{
+    text-decoration: underline;
+}
+p
+{
+    color: brown;
+}
+.list2
+{
+    color: brown;
+    letter-spacing: 5px;
+}
+.line
+{
+    text-decoration: line-through;
+}
+.line2
+{
+    background-color: greenyellow;
+}
+.anchor
+{
+    text-decoration-line: none;
+    font-style: italic;
+    background-color: aqua;
+}
