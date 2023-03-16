@@ -1,0 +1,89 @@
+body
+{
+    border: 20px solid rgba(233, 11, 115, 0.74);
+    border-image: url(./border.jpg)10 stretch;
+    background-image: url(./plain\ blue.jpg);
+    background-size:cover;
+}
+
+.table
+{
+    color: black;
+    padding: 20px 90px 100px;
+    text-align: center;
+    border: 10px dashed yellow;
+    width: 300px;
+    background-color: lightgreen;
+    position: relative;
+    left: 650px;
+    bottom: 350px;
+}
+.head
+{
+    color: black;
+    font-style: italic;
+    padding: 10x 10px 10px;
+    border: 10px solid green;
+    border-radius: 30px;
+    width: 350px;
+    background-color: yellow;
+    align-content:first baseline;
+}
+ .h2
+{
+    position: relative;
+    right: 70px;
+    padding-left: 20px;
+    padding-top : 20px;
+    font-size: small;
+} 
+.h3
+{
+    position: relative;
+    left: 900px;
+    bottom: 100px;
+    text-align: center;
+    font-size: small;
+    background-color:lawngreen;
+} 
+.h4 
+{
+    border-radius:100%;
+    padding:50px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    background-color: lightpink;
+    position:relative;
+    top:100px;
+} 
+ .menu
+{
+    font-style: italic;
+    border-radius: 50px;
+    border: 10px solid green;
+    background-color: lightslategray;
+    text-align: center;
+    position: relative;
+    left: 400px;
+    width: 400px;
+} .starter
+{
+    padding: 10px 10px 10px;
+    border: 5px solid yellow;
+    background-color: aqua;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+.menu2
+{
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+}
+.main
+{
+    position: relative;
+    bottom: 300px;
+}
